@@ -6,7 +6,8 @@
 # This is a spider for job website.
 
 ## TODO list:
-- [ ]add more website support
-- [ ]
+
+- []add more website support
+- []add ip pool
 - [x] add baidu map support to calculate the distance between 
-* 
+- [x] add sqlite support to manage data

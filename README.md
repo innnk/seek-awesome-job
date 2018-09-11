@@ -4,7 +4,7 @@
 
 ![spider](https://blog-img-1257227635.cos.ap-beijing.myqcloud.com/pachong.png )That it is!
 ## This is a spider for job website.
-
+You can set your target job name and your home address, it will save all the relative infomation.
 ## TODO list:
 
 - [ ] add more website support

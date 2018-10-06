@@ -7,6 +7,7 @@
 You can set your target job name and your home address, it will save all the relative infomation.
 ## TODO list:
 
+- [ ] distribute
 - [ ] add more website support
 - [ ] add ip pool
 - [x] add baidu map support to calculate the distance between home and company.s
